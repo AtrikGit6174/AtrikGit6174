@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 - 🌱 I’m currently learning Machine Learning, with a the Stanford Cuurse on Coursera and have just joined Kaggle
 - :wave: I’m looking to collaborate on C++ projects
