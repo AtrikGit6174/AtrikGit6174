@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-- 🌱 I’m currently learning Machine Learning, with the Stanford University Course on Coursera and have just joined Kaggle
+- 🌱 I’m currently undergong Machine Learning, with the Stanford University Course on Coursera and have just joined Kaggle
 - :wave: I’m looking to collaborate on C++ projects
 - 🔭 Cryptography and cybersecurity excites me... Looking for guidance on Cryptopals Cryptochallenges
 - ⚡ Fun fact: I call myself a Random Rhymer. Indian Mythology enthusiasts, count me in!
