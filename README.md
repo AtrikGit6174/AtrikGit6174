@@ -1,6 +1,8 @@
 ### Hello World! 👋
 
 - 🌱 I’m currently undergong Machine Learning, with the Stanford University Course on Coursera and have just joined Kaggle
+- 🔭 I’m a beginner in working with Unity Editor. Do check out my LEGO tutorial guided game at https://play.unity.com/mg/lego/webgl-builds-33587
+  Looking forward to your views and suggestions!
 - :wave: I’m looking to collaborate on C++ projects
 - 🔭 Cryptography and cybersecurity excites me... Looking for guidance on Cryptopals Cryptochallenges
 - ⚡ Fun fact: I call myself a Random Rhymer. Indian Mythology enthusiasts, count me in!
