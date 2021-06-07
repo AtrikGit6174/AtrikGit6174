@@ -4,7 +4,7 @@
   Looking forward to your views and suggestions!
 - :wave: I’m looking to collaborate on C++ projects
 - 🔭 Cryptography and cybersecurity excites me... Looking for guidance on Cryptopals Cryptochallenges
--🌱 I have completed Machine Learning, with the Stanford University Course on Coursera and joined Kaggle (will focus more on ML in the future)
+- 🌱 I have completed Machine Learning, with the Stanford University Course on Coursera and joined Kaggle (will focus more on ML in the future)
 - ⚡ Fun fact: I call myself a Random Rhymer. Indian Mythology enthusiasts, count me in!
 <!--
 **AtrikGit6174/AtrikGit6174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
