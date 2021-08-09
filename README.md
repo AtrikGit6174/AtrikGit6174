@@ -1,10 +1,10 @@
 ### Hello World! 👋
 
+- 🔭 Cryptography and cybersecurity excites me... Looking for guidance on Cryptopals Cryptochallenges
+- 🔭 Well, I am finally trying out TryHackMe challenges and OverTheWire Bandits, and I just love them! Newly installed Kali Linux and I am in awe!
+- :wave: I’m looking to collaborate on C++ projects
 - 🔭 I’m a beginner in working with Unity Editor. Do check out my LEGO tutorial guided game at https://play.unity.com/mg/lego/webgl-builds-33587
   Looking forward to your views and suggestions!
-- :wave: I’m looking to collaborate on C++ projects
-- 🔭 Cryptography and cybersecurity excites me... Looking for guidance on Cryptopals Cryptochallenges
-- 🔭 Well, I am finally trying out TryHackMe challenges, and I just love them! Newly installed Kali Linux and I am in awe!
 - 🌱 I have completed Machine Learning, with the Stanford University Course on Coursera and joined Kaggle (will focus more on ML in the future)
 - ⚡ Fun fact: I call myself a Random Rhymer. Indian Mythology enthusiasts, count me in!
 <!--
