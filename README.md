@@ -7,6 +7,9 @@
   Looking forward to your views and suggestions!
 - 🌱 I have completed Machine Learning, with the Stanford University Course on Coursera and joined Kaggle (will focus more on ML in the future)
 - ⚡ Fun fact: I call myself a Random Rhymer. Indian Mythology enthusiasts, count me in!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AtrikGit6174&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **AtrikGit6174/AtrikGit6174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
