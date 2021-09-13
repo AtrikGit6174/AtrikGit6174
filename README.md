@@ -48,19 +48,19 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtrikGit6174&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtrikGit6174&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=PWD-Generator&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=Diabetes-Tracker&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=Order-Hamburger&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=AtrikGit6174&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=PWD-Generator&show_owner=true&theme=midnight-purple)](https://github.com/AtrikGit6174/PWD-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=Diabetes-Tracker&show_owner=true&theme=midnight-purple)](https://github.com/AtrikGit6174/Diabetes-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=Order-Hamburger&show_owner=true&theme=midnight-purple)](https://github.com/AtrikGit6174/Order-Hamburger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=AtrikGit6174&show_owner=true&theme=midnight-purple)](https://github.com/AtrikGit6174/AtrikGit6174)
 
 
 <h3 align="left">Contributor in:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gayathri-ms&repo=guest-room-management&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gayathri-ms&repo=guest-room-management&show_owner=true&theme=midnight-purple)](https://github.com/gayathri-ms/guest-room-management)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayush7614&repo=Daily-Coding-DS-ALGO-Practice&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayush7614&repo=Daily-Coding-DS-ALGO-Practice&show_owner=true&theme=midnight-purple)](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetsGrowMoreCommunity&repo=DSA-Playyard&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetsGrowMoreCommunity&repo=DSA-Playyard&show_owner=true&theme=midnight-purple)](https://github.com/LetsGrowMoreCommunity/DSA-Playyard)
 
 
 Acknowledgements:
