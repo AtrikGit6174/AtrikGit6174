@@ -42,6 +42,7 @@
 Acknowledgements:
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [devicons/devicon](https://github.com/devicons/devicon)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=github-readme-stats&show_owner)](https://github.com/anuraghazra/github-readme-stats)
