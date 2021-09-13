@@ -19,6 +19,15 @@
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
+  <a href="https://www.overleaf.com/" target="_blank"> 
+    <img src="https://images.ctfassets.net/nrgyaltdicpt/2nzY91x4CjwwxHdsiCjLN2/ce20e788b3364e7f5d3bf2c0552838aa/ologo_square_colour_green_bg.svg" alt="overleaf" width="40" height="40"/> 
+  </a>
+  <!--a href="https://www.latex-project.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg" alt="latex" width="40" height="40"/> 
+  </a-->
+  <a href="https://colab.research.google.com/" target="_blank"> 
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colaboratory" width="40" height="40"/> 
+  </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
