@@ -39,13 +39,27 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtrikGit6174&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtrikGit6174&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=PWD-Generator&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=Diabetes-Tracker&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=Order-Hamburger&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=AtrikGit6174&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h3 align="left">Contributor in:</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gayathri-ms&repo=guest-room-management&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayush7614&repo=Daily-Coding-DS-ALGO-Practice&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetsGrowMoreCommunity&repo=DSA-Playyard&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Acknowledgements:
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - [devicons/devicon](https://github.com/devicons/devicon)
 
 <!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtrikGit6174&repo=github-readme-stats&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 - [rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 **AtrikGit6174/AtrikGit6174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
