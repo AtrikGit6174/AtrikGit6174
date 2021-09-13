@@ -8,6 +8,13 @@
 - 🌱 I have completed Machine Learning with the Stanford University Course on Coursera and joined Kaggle (will focus more on ML in the future)
 - ⚡ Fun fact: I call myself a Random Rhymer. Indian Mythology enthusiasts, count me in!
 
+<h3 align="left">whoami: </h3>
+  <p align="left">
+  <a href="https://drive.google.com/file/d/1GzTfE8umE3WaWqEvlJFDZZIiFzNNJgVq/view?usp=sharing" target="_blank"> Resume </a>
+  ||
+  <a href="https://www.linkedin.com/in/atrikray7171/" target="_blank"> LinkedIn @ atrikray7171 </a>
+  </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -57,9 +64,7 @@
 <h3 align="left">Contributor in:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gayathri-ms&repo=guest-room-management&show_owner=true&theme=midnight-purple)](https://github.com/gayathri-ms/guest-room-management)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayush7614&repo=Daily-Coding-DS-ALGO-Practice&show_owner=true&theme=midnight-purple)](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetsGrowMoreCommunity&repo=DSA-Playyard&show_owner=true&theme=midnight-purple)](https://github.com/LetsGrowMoreCommunity/DSA-Playyard)
 
 
