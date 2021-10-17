@@ -15,6 +15,11 @@
   <a href="https://www.linkedin.com/in/atrikray7171/" target="_blank"> LinkedIn @ atrikray7171 </a>
   </p>
 
+<h3 align="left">Open a conversation @: </h3>
+  <p align="left">
+  <a href= "https://github.com/AtrikGit6174/AtrikGit6174/issues/new" target="_blank"> https://github.com/AtrikGit6174/AtrikGit6174/issues/new </a>
+  </p>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
