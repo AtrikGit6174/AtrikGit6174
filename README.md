@@ -1,11 +1,12 @@
 ### Hello World! 👋
 
+- 🔭 I am working on being a Web App Pentester as of now, trying out TryHackMe challenges (@[Garuda1087](https://tryhackme.com/p/Garuda1087)) 
+<!-- and OverTheWire Bandit, and I just love them! Newly installed Kali Linux and I am in awe! -->
 - 🔭 Cryptography and cybersecurity excites me... Looking for guidance on Cryptopals Cryptochallenges
-- 🔭 Well, I am finally trying out TryHackMe challenges (@[Garuda1087](https://tryhackme.com/p/Garuda1087)) and OverTheWire Bandit, and I just love them! Newly installed Kali Linux and I am in awe!
-- :wave: I’m looking to collaborate on C++ and Python projects
-- 🔭 I’m a beginner in working with Unity Editor. Do check out my LEGO tutorial guided game at https://play.unity.com/mg/lego/webgl-builds-33587
-  Looking forward to your views and suggestions!
-- 🌱 I have completed Machine Learning with the Stanford University Course on Coursera and joined Kaggle (will focus more on ML in the future)
+- :wave: I’m looking to collaborate on Cybersecurity tools, C++ and Python projects
+- 🌱 I have completed the [NYU Introduction to CyberSecurity Specialisation](https://www.coursera.org/specializations/intro-cyber-security) and pursuing the [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+- 🔭 I’m a beginner in working with Unity Editor. Do check out my LEGO tutorial guided game at https://play.unity.com/mg/lego/webgl-builds-33587 . Looking forward to your views and suggestions!
+- 🌱 I have completed Machine Learning with the Stanford University Course on Coursera and joined Kaggle.
 - ⚡ Fun fact: I call myself a Random Rhymer. Indian Mythology enthusiasts, count me in!
 
 <h3 align="left">whoami: </h3>
@@ -19,7 +20,9 @@
   <p align="left">
   <a href= "https://github.com/AtrikGit6174/AtrikGit6174/issues/new" target="_blank"> https://github.com/AtrikGit6174/AtrikGit6174/issues/new </a>
   </p>
-  
+
+![](https://komarev.com/ghpvc/?username=AtrikGit6174)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
