@@ -14,6 +14,8 @@
   <a href="https://drive.google.com/file/d/1GzTfE8umE3WaWqEvlJFDZZIiFzNNJgVq/view?usp=sharing" target="_blank"> Resume </a>
   ||
   <a href="https://www.linkedin.com/in/atrikray7171/" target="_blank"> LinkedIn @ atrikray7171 </a>
+  ||
+  <a href="https://atrikray7171.medium.com/" target="_blank"> Medium </a>
   </p>
 
 <h3 align="left">Open a conversation @: </h3>
