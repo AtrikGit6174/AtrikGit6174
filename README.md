@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-- ⭐ Interned from June 2022 - July 2022 @ Goldman Sachs as Tech Risk Engineering Intern. Check out my interview experience @ [Blog 4 on Medium](https://atrikray7171.medium.com/blog-4-goldman-sachs-echp-2022-interview-experience-538c5263f66e)
+- ⭐ Tech Risk Engineering Intern from June 2022 - July 2022 @ Goldman Sachs. Check out my interview experience @ [Blog 4 on Medium](https://atrikray7171.medium.com/blog-4-goldman-sachs-echp-2022-interview-experience-538c5263f66e)
 - 🔭 I am working on being a Web App Pentester as of now, trying out TryHackMe challenges (@[Garuda1087](https://tryhackme.com/p/Garuda1087)) 
 - 🔭 Cryptography and cybersecurity excites me... Looking for guidance on Cryptopals Cryptochallenges
 - :wave: I’m looking to collaborate on Cybersecurity tools, C++ and Python projects
