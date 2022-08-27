@@ -12,7 +12,7 @@
 <!--
 <h3 align="left">whoami: </h3>
   <p align="left">
-    <a href="https://drive.google.com/file/d/1GzTfE8umE3WaWqEvlJFDZZIiFzNNJgVq/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1-f6bCJgKColH5zBfIvt3TFG0tb3nclQK/view" target="_blank">
       <img src="https://freepngimg.com/download/resume/9-2-resume-picture.png" alt="Resume" width="40" height="40"> 
    Resume 
     </a>
