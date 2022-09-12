@@ -5,7 +5,7 @@
 - 🔭 Solving [Cryptopals Cryptochallenges](https://cryptopals.com/)
 - 👋 I’m looking to collaborate on Cybersecurity tools, C++ and Python projects
 - 🌱 I have completed the [NYU Introduction to CyberSecurity Specialisation](https://www.coursera.org/specializations/intro-cyber-security) and the [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
-- 🔭 I’m a beginner in working with Unity Editor. Do check out my [LEGO tutorial guided game - LEGO Islands Minigame](https://play.unity.com/mg/lego/webgl-builds-33587). Looking forward to your views and suggestions!
+- 🔭 I’m a beginner in working with Unity Editor. Do check out my LEGO tutorial guided game - [LEGO Islands Minigame](https://play.unity.com/mg/lego/webgl-builds-33587). Looking forward to your views and suggestions!
 - ⚡ Fun fact: I call myself a Random Rhymer. Indian History & Mythology enthusiasts, count me in!
 <!-- 🌱 I have completed Machine Learning with the Stanford University Course on Coursera and joined Kaggle.-->
 
