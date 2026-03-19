@@ -1,3 +1,4 @@
+<!--
 ### Hello World! 👋
 
 - ⭐ Tech Risk Engineering Intern from June 2022 - July 2022 @ Goldman Sachs. Check out my interview experience @ [Blog 4 on Medium](https://atrikray7171.medium.com/blog-4-goldman-sachs-echp-2022-interview-experience-538c5263f66e)
@@ -8,7 +9,7 @@
 - 🔭 I’m a beginner in working with Unity Editor. Do check out my LEGO tutorial guided game - [LEGO Islands Minigame](https://play.unity.com/mg/lego/webgl-builds-33587). Looking forward to your views and suggestions!
 - ⚡ Fun fact: I call myself a Random Rhymer. Indian History & Mythology enthusiasts, count me in!
 <!-- 🌱 I have completed Machine Learning with the Stanford University Course on Coursera and joined Kaggle.-->
-
+-->
 <!--
 <h3 align="left">whoami: </h3>
   <p align="left">
@@ -37,6 +38,9 @@
   <h3 align="left">whoami: </h3>
   <p align="left">
     <a href="https://drive.google.com/file/d/1-f6bCJgKColH5zBfIvt3TFG0tb3nclQK/view" target="_blank">
+      🌍
+    </a>
+    <a href="https://atrik-ray-cybersecurity-no0dan2.gamma.site/" target="_blank">
       <img src="https://freepngimg.com/download/resume/9-2-resume-picture.png" alt="Resume" width="40" height="40"> 
     </a>
     <a href="https://www.linkedin.com/in/atrikray7171/" target="_blank">
